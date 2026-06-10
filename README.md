@@ -23,7 +23,7 @@ currency-exchange-system/
 **How to Run**
 
 **Clone Repository:**
-git clone 
+git clone https://github.com/Ms-Noor409/Currency_Exchange_System.git
 
 **Go to Project Folder:**
 cd currency-exchange-system
